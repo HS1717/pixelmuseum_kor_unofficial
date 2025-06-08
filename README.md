@@ -18,11 +18,13 @@ Unofficial korean translation of "Juufuutei Raden™'s Guide for Pixel Museum"
 4. 게임을 실행했을 때 아래와 같은 터미널 창이 뜨면 성공입니다.  
    <img src="https://i.imgur.com/xo8avXT.jpeg" width="600"/>
 
+## 상세
 
 수정, 건의사항 존재시 이 리포지토리를 이용해주시면 감사하겠습니다.
 라이센스는 CC BY-NC-SA 4.0를 적용하나, 편의성을 위해 본 계정이 활성화중인 경우 직접 수정 및 재배포보단 알려주시기 바랍니다.
 장기간 (약 3개월 이상) 비활성화시 자유롭게 수정 및 재배포 가능합니다.
 
+## 출처
 This project was inspired by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).
 이 프로젝트는 [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)를 참고하여 제작되었습니다.  
 本プロジェクトは [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) を参考にして作成されました。
