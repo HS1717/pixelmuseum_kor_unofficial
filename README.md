@@ -21,6 +21,10 @@ PixelMuseum_kor_unofficial.zip을 다운로드하시면 됩니다.
 4. 게임 실행 시, 아래와 같은 터미널 창이 표시되면 정상 적용된 것입니다.  
    <img src="https://i.imgur.com/xo8avXT.jpeg" width="600"/>
 
+## 주의사항
+설명 텍스트, 용어집, 일부 튜토리얼 항목은 기술적 한계로 인해 번역되지 않았으며, 원문 그대로 유지되어 있습니다.<br>
+   <img src="https://i.imgur.com/cvPWGln.jpeg" width="600"/>
+
 ### 수정 및 재배포 관련 안내
 
 - 본 계정이 **활성 상태**일 경우, **직접 수정 및 재배포보다는 먼저 연락을 부탁드립니다.**
