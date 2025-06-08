@@ -25,6 +25,6 @@ Unofficial korean translation of "Juufuutei Raden™'s Guide for Pixel Museum"
 장기간 (약 3개월 이상) 비활성화시 자유롭게 수정 및 재배포 가능합니다.
 
 ## 출처
-This project was inspired by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).
-이 프로젝트는 [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)를 참고하여 제작되었습니다.  
-本プロジェクトは [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) を参考にして作成されました。
+This project was inspired by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).\\
+이 프로젝트는 [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)를 참고하여 제작되었습니다.  \\
+本プロジェクトは [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) を参考にして作成されました。\\
