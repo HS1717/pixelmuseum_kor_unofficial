@@ -1,21 +1,27 @@
-MIT License
+This project is an unofficial, non-commercial fan-made translation patch.  
+본 프로젝트는 비공식, 비상업적 팬 제작 번역 패치입니다。  
+本プロジェクトは非公式・非営利のファンメイド翻訳パッチです。
 
-Copyright (c) 2025 HS1717
+- Original game files are not included.  
+  원본 게임 파일은 포함되어 있지 않습니다.  
+  元のゲームファイルは含まれていません。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+- This patch is distributed under the Creative Commons BY-NC-SA 4.0 license, with the following additional conditions:  
+  이 패치는 Creative Commons BY-NC-SA 4.0 라이선스를 따르며, 다음과 같은 추가 조건이 적용됩니다.  
+  このパッチは Creative Commons BY-NC-SA 4.0 ライセンスに基づき、以下の追加条件を持ちます。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. This patch may not be used for commercial purposes.  
+   이 패치는 상업적인 목적으로 사용할 수 없습니다.  
+   このパッチは商用目的での使用を禁じます。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. If the original game developer or publisher requests removal, this repository and associated files will be deleted promptly.  
+   원작자나 퍼블리셔가 삭제를 요청할 경우, 본 저장소 및 관련 파일은 즉시 삭제됩니다.  
+   原作の開発者またはパブリッシャーから削除要請があった場合、本リポジトリおよび関連ファイルは速やかに削除されます。
+
+3. Modification and redistribution of this translation are permitted only with the author’s explicit consent if the author is actively maintaining the project.  
+   본 번역의 수정 및 재배포는 작성자가 현재 프로젝트를 적극적으로 유지 중일 경우, 작성자의 명시적인 동의가 있어야 합니다.  
+   作者が本プロジェクトを積極的に保守している場合、この翻訳の改変および再配布には作者の明確な許可が必要です。
+
+4. If the author has been inactive for more than 3 months (e.g., no GitHub commits, issues, comments, or social media posts related to this project), modification and redistribution are freely permitted under the same license (CC BY-NC-SA 4.0).  
+   작성자가 3개월 이상 비활성 상태일 경우(예: GitHub 커밋, 이슈, 댓글, 관련 SNS 활동 없음), 동일한 라이선스(CC BY-NC-SA 4.0) 하에 자유롭게 수정 및 재배포가 가능합니다.  
+   作者が3ヶ月以上非活動状態（GitHubのコミット・イシュー・コメントやSNS投稿などがない場合）の場合、同ライセンス（CC BY-NC-SA 4.0）のもとで自由に改変および再配布が可能です。
