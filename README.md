@@ -9,7 +9,7 @@ PixelMuseum_kor_unofficial.zip을 다운로드하시면 됩니다.
 ## 적용 방법
 
 1. 게임 폴더를 엽니다.  
-   <img src="https://i.imgur.com/SKidN8W.jpeg" width="600"/>
+   <img src="https://i.imgur.com/60mXIRL.jpeg" width="600"/>
 
 2. 다운받은 파일을 해당 디렉터리에 옮깁니다.  
    <img src="https://i.imgur.com/2D40dJF.jpeg" width="600"/>
